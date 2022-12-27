@@ -16,5 +16,5 @@
 <img src="https://img.shields.io/badge/D3-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
